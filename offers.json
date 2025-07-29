@@ -1,6 +1,6 @@
 [
   {
-    "id": "",
+    "id": 0,
     "offerImage": "",
     "offerTitle": "",
     "urlOffer": "",
@@ -8,7 +8,7 @@
     "description":""
   },
   {
-    "id": "",
+    "id": 1,
     "offerImage": "",
     "offerTitle": "",
     "urlOffer": "",
@@ -16,7 +16,7 @@
     "description":""
   },
   {
-    "id": "",
+    "id": 2,
     "offerImage": "",
     "offerTitle": "",
     "urlOffer": "",
@@ -24,7 +24,7 @@
     "description":""
   },
    {
-    "id": "",
+    "id": 3,
     "offerImage": "",
     "offerTitle": "",
     "urlOffer": "",
