@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "5% OFF em compras acima de R$ 30 aplicando cupom exclusivo Shopee para novos usuários",
+    "cupom": "CUP0N0MIAUGUSTPB",
+    "imageCupom": "https://firebasestorage.googleapis.com/v0/b/encontrei-na-shoppe.appspot.com/o/shopee.png?alt=media&token=6e73d266-2ec9-4af8-9220-9233a55ae292",
+    "linkCupom": "https://s.shopee.com.br/2Vi0WCPbZ9"
+  }
+]
