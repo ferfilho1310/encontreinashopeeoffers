@@ -5,5 +5,19 @@
     "cupom": "CUP0N0MIAUGUSTPB",
     "imageCupom": "https://firebasestorage.googleapis.com/v0/b/encontrei-na-shoppe.appspot.com/o/shopee.png?alt=media&token=6e73d266-2ec9-4af8-9220-9233a55ae292",
     "linkCupom": "https://s.shopee.com.br/2Vi0WCPbZ9"
+  },
+  {
+    "id": "2",
+    "title": "R$7 OFF na Shopee para compras acima de R$40 para novos usuários",
+    "cupom": "CUPONOMI45OFFPB",
+    "imageCupom": "https://firebasestorage.googleapis.com/v0/b/encontrei-na-shoppe.appspot.com/o/shopee.png?alt=media&token=6e73d266-2ec9-4af8-9220-9233a55ae292",
+    "linkCupom": "https://s.shopee.com.br/2Vi0WCPbZ9"
+  },
+   {
+    "id": "3",
+    "title": "5% OFF na Shopee para Roupas Masculinas, Bolsas Masculinas, Viagem e Bagagem, Sapatos Masculinos e Esportes e Lazer, Computadores e Acessórios e Jogos e Consoles",
+    "cupom": "CUPONOMIAMM5PB",
+    "imageCupom": "https://firebasestorage.googleapis.com/v0/b/encontrei-na-shoppe.appspot.com/o/shopee.png?alt=media&token=6e73d266-2ec9-4af8-9220-9233a55ae292",
+    "linkCupom": "https://s.shopee.com.br/2Vi0X9jlkQ"
   }
 ]
