@@ -40,5 +40,19 @@
     "cupom": "SUP3RDESC0NT0SHO22",
     "imageCupom": "https://firebasestorage.googleapis.com/v0/b/encontrei-na-shoppe.appspot.com/o/shopee.png?alt=media&token=6e73d266-2ec9-4af8-9220-9233a55ae292",
     "linkCupom": "https://s.shopee.com.br/9zo951ORFj"
+  },
+  {
+    "id": "7",
+    "title": "Cupom de R$20 de desconto em compras acima de R$50",
+    "cupom": "CUP0N0MIA1503PB",
+    "imageCupom": "https://firebasestorage.googleapis.com/v0/b/encontrei-na-shoppe.appspot.com/o/shopee.png?alt=media&token=6e73d266-2ec9-4af8-9220-9233a55ae292",
+    "linkCupom": "https://s.shopee.com.br/7V6rkRMbnj"
+  },
+  {
+    "id": "8",
+    "title": "Cupom de desconto de R$7 em compras acima de R$40",
+    "cupom": "CUPONOMI45OFFPB",
+    "imageCupom": "https://firebasestorage.googleapis.com/v0/b/encontrei-na-shoppe.appspot.com/o/shopee.png?alt=media&token=6e73d266-2ec9-4af8-9220-9233a55ae292",
+    "linkCupom": "https://s.shopee.com.br/7V6rkRMbnj"
   }
 ]
